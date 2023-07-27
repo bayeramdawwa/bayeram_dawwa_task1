@@ -1,0 +1,61 @@
+.Footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+    padding:  32px;
+    background-color: rgb(172, 172, 253);
+}
+.Footer .Footer-menu{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    margin-top: 15px;
+}
+.Footer .Footer-menu .Footer-li{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.Footer .Footer-menu .Footer-li .Fli_a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 8px;
+}
+.Footer .Footer-menu .Footer-li .Fli_a:hover{
+    background-color: rgb(43, 43, 170);
+    color: white;
+  
+    
+}
+.Footer .copyRight{
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width:755px){
+    .Footer{
+        padding:  15px;
+   
+    }
+    .Footer .Footer-menu{
+        gap: 10px;
+       
+    }
+    .Footer .Footer-menu .Footer-li {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .Footer .Footer-menu .Footer-li .Fli_a{
+        padding: 5px;
+    }
+    .Footer .copyRight{
+        font-size: 12px;
+    }
+    
+}

@@ -1,0 +1,77 @@
+.Hero{
+    max-width: 100vw;
+    min-height: 100vh;
+    z-index: 2;
+    background-size: contain;
+    background-color: rgb(172, 172, 253);
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding: 0 5%;
+}
+
+
+
+.Hero .HeroContaint{
+    text-align: center;
+}
+
+.Hero .HeroContaint .Hero-h2{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    
+}
+.Hero .HeroContaint .Hero-h1{
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    color: rgb(43, 43, 170);
+    
+}
+.Hero .HeroContaint .Hero-p{
+    font-size: 20px;
+    font-weight:700;
+    color: black;
+    margin-bottom: 50px;
+}
+
+.Hero .HeroContaint .Hero-btn{
+    font-size: 20px;
+    font-weight:700;
+    background-color: rgb(43, 43, 170);
+    transition: background-color ease-in-out 1s ;
+    border-radius: 8px;
+    padding: 10px 50px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Hero .HeroContaint .Hero-btn:hover{
+    background-color: white;
+    color: rgb(43, 43, 170);
+    border: 1px solid rgb(43, 43, 170);
+    transition: background-color ease-in-out 0.5s;
+}
+
+
+
+@media only screen and (max-width:768px){
+    .Hero .HeroContaint .Hero-h2{
+        font-size: 32px;
+    }
+    .Hero .HeroContaint .Hero-h1{
+        font-size: 32px;
+        font-weight: 700;
+    }
+    .Hero .HeroContaint .Hero-p{
+        font-size: 15px;
+    }
+    
+    .Hero .HeroContaint .Hero-btn{
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+}

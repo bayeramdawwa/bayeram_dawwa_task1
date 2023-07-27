@@ -1,0 +1,38 @@
+.SocialMedia{
+  margin-top: 30px;
+    display: flex;
+    gap: 5px;
+    height: 50px;
+}
+
+
+.SocialMedia .icon{
+    font-size:25px;
+    color: black;
+    transition: all ease-in-out  0.1s ;
+}
+.SocialMedia .ficon:hover{
+    font-size:35px;
+    color: rgb(5, 5, 59);
+   
+}
+.SocialMedia .Iicon:hover{
+    font-size:35px;
+    color: rgb(182, 6, 6);
+}
+.SocialMedia .Licon:hover{
+    font-size:35px;
+    color: rgb(33, 33, 206);
+}
+.SocialMedia .Yicon:hover{
+    font-size:35px;
+    color: red;
+}
+.SocialMedia .Gicon:hover{
+    font-size:35px;
+  
+}
+.SocialMedia .Ticon:hover{
+    font-size:35px;
+    color: rgb(11, 198, 245);
+}

@@ -1,0 +1,97 @@
+.AdsCompo {
+    display: flex;
+    padding: 30px;
+    border-radius: 8px;
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(43, 43, 170);
+    margin-top: 70px;
+}
+
+
+.AdsCompo .contaient .ads-p1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.AdsCompo .contaient .ads-p2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+
+.AdsCompo .Ads-btn {
+    background-color: white;
+    min-width: 120px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    transition: background-color ease-in-out 1s;
+}
+.AdsCompo .Ads-btn:hover {
+    background-color: black;
+    color: white;
+    transition: background-color ease-in-out 0.5s;
+
+}
+
+
+@media only screen and (max-width:838px) {
+    .AdsCompo {
+        padding: 15px;
+        gap: 10px;
+
+    }
+
+    .AdsCompo .contaient .ads-p1 {
+        font-size: 15px;
+
+    }
+
+    .AdsCompo .contaient .ads-p2 {
+        font-size: 15px;
+
+
+
+    }
+
+
+    .AdsCompo .Ads-btn {
+        padding: 10px;
+        font-size: 15px;
+
+
+    }
+}
+
+@media only screen and (max-width:425px) {
+    .AdsCompo {
+        padding: 10px;
+        gap: 10px;
+
+    }
+
+    .AdsCompo .contaient .ads-p1 {
+        font-size: 12px;
+    }
+
+    .AdsCompo .contaient .ads-p2 {
+        font-size: 12px;
+    }
+
+    .AdsCompo .Ads-btn {
+        padding: 5px;
+
+
+
+    }
+
+
+}

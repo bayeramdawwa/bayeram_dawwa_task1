@@ -1,0 +1,38 @@
+.Services{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 10%;
+    padding-top: 75px;
+    
+}
+.Services .ServicesText{
+    padding:0 10%;
+    text-align: center;
+}
+
+.Services .ServicesText .Services-h1{
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.Services .ServicesText.Services-p{
+    font-size: 15px;
+    font-weight:600;
+    text-align: center;
+}
+
+@media only screen and (max-width:768px){
+    .Services{
+        padding: 0 5%;
+        padding-top: 80px;
+        
+    }
+    .Services .ServicesText .Services-h1{
+        font-size: 25px;
+    }
+    .Services .ServicesText{
+        padding:0 0;
+    }
+    
+}
