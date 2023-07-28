@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bayeram_dawwa_task1/static/css/main.0dbafc9d.css",
-    "main.js": "/bayeram_dawwa_task1/static/js/main.f0a5f224.js",
-    "static/js/787.28cb0dcd.chunk.js": "/bayeram_dawwa_task1/static/js/787.28cb0dcd.chunk.js",
-    "static/media/3.png": "/bayeram_dawwa_task1/static/media/3.eb8e0875476d493edc3d.png",
-    "static/media/2.png": "/bayeram_dawwa_task1/static/media/2.5b8dd5e58d97cf13a943.png",
-    "static/media/4.png": "/bayeram_dawwa_task1/static/media/4.b357770e4dbd5f23e2f7.png",
-    "static/media/1.png": "/bayeram_dawwa_task1/static/media/1.f7609c0d8f38a79323c5.png",
-    "static/media/logo.svg": "/bayeram_dawwa_task1/static/media/logo.d39a975e55eac5f1ede62e11e86bc646.svg",
-    "index.html": "/bayeram_dawwa_task1/index.html",
-    "main.0dbafc9d.css.map": "/bayeram_dawwa_task1/static/css/main.0dbafc9d.css.map",
-    "main.f0a5f224.js.map": "/bayeram_dawwa_task1/static/js/main.f0a5f224.js.map",
-    "787.28cb0dcd.chunk.js.map": "/bayeram_dawwa_task1/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/bayeram_dawwa_task1u/static/css/main.80200eee.css",
+    "main.js": "/bayeram_dawwa_task1u/static/js/main.48ae9de4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bayeram_dawwa_task1u/static/js/787.28cb0dcd.chunk.js",
+    "static/media/3.png": "/bayeram_dawwa_task1u/static/media/3.eb8e0875476d493edc3d.png",
+    "static/media/2.png": "/bayeram_dawwa_task1u/static/media/2.5b8dd5e58d97cf13a943.png",
+    "static/media/4.png": "/bayeram_dawwa_task1u/static/media/4.b357770e4dbd5f23e2f7.png",
+    "static/media/1.png": "/bayeram_dawwa_task1u/static/media/1.f7609c0d8f38a79323c5.png",
+    "static/media/logo.svg": "/bayeram_dawwa_task1u/static/media/logo.d39a975e55eac5f1ede62e11e86bc646.svg",
+    "index.html": "/bayeram_dawwa_task1u/index.html",
+    "main.80200eee.css.map": "/bayeram_dawwa_task1u/static/css/main.80200eee.css.map",
+    "main.48ae9de4.js.map": "/bayeram_dawwa_task1u/static/js/main.48ae9de4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bayeram_dawwa_task1u/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dbafc9d.css",
-    "static/js/main.f0a5f224.js"
+    "static/css/main.80200eee.css",
+    "static/js/main.48ae9de4.js"
   ]
 }
